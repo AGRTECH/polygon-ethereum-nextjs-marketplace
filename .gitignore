@@ -2,6 +2,7 @@
 
 .secret
 .infuraid
+.privatekey
 config.js
 
 # dependencies
